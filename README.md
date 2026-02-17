@@ -7,8 +7,8 @@ I am Rida Parveen, a BSCS(8th Semester) student at **GCUF** with a passion for u
 * **Data Visualization:** Telling stories through data using Matplotlib, Seaborn, and Power BI.
 * **Database Management:** Writing complex SQL queries to extract relevant information.
 
-### 🛠️ Tech Stack
-* **Languages:** Python 🐍, SQL 🗄️
+###  Tech Stack
+* **Languages:** Python , SQL 🗄️
 * **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 * **Tools:** Jupyter Notebooks, Excel, Power BI/Tableau, Git
 
