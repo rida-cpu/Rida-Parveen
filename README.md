@@ -12,5 +12,4 @@ I am Rida Parveen, a BSCS(8th Semester) student at **GCUF** with a passion for u
 * **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 * **Tools:** Jupyter Notebooks, Excel, Power BI/Tableau, Git
 
----
 I'm always open to collaboration, feedback, and discussion about Python, Data Analyst and Power BI
